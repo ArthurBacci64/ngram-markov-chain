@@ -155,7 +155,7 @@ int main(int argc, char **argv)
     }
 
     output = malloc(1000 + 1);
-    sprintf(output, "GNU ");
+    sprintf(output, "This ");
     output_len = strlen(output);
 
     printf("Making text...\n\n");
